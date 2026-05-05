@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+    <info>
+        <name>My KCD2 Mod</name>
+        <modid>my_kcd2_mod</modid>
+        <description>A brief description of what this mod does</description>
+        <author>YourName</author>
+        <version>1.0.0</version>
+        <created_on>2025-01-15</created_on>
+        <modifies_level>false</modifies_level>
+    </info>
+</kcd_mod>

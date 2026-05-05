@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--
+    XML Data Override Example
+    Demonstrates how to override game buff tables.
+    Place in: Data/Libs/Tables/rpg/buff__my_mod.xml
+    
+    The game loads this alongside the base buff table.
+    KCD2ModLoader merges modifications at runtime.
+    
+    Based on patterns from kcd2-cheat (buff__cheat.xml).
+-->
+<database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    name="buff" xsi:noNamespaceSchemaLocation="../database.xsd">
+    <table_name version="1">
+        <!-- Custom buff: Super Healing -->
+        <row buff_name="my_mod_super_heal"
+             buff_type="1"
+             buff_ui_name="Super Healing"
+             buff_ui_desc="Rapidly restores health over time"
+             buff_duration="30"
+             buff_cooldown="60"
+             buff_effect_health_regen="5.0"
+             buff_icon="icons/heal.dds" />
+        
+        <!-- Custom buff: Speed Boost -->
+        <row buff_name="my_mod_speed_boost"
+             buff_type="1"
+             buff_ui_name="Speed Boost"
+             buff_ui_desc="Movement speed increased by 50%"
+             buff_duration="20"
+             buff_cooldown="30"
+             buff_effect_speed_mult="1.5"
+             buff_icon="icons/speed.dds" />
+    </table_name>
+</database>

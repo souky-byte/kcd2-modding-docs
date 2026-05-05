@@ -1,0 +1,42 @@
+# Build artifacts
+*.pak
+*.zip
+release.properties
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled
+*.exe
+*.dll
+*.asi
+*.pdb
+*.obj
+*.o
+*.so
+
+# Node / TypeScript
+node_modules/
+out/
+dist/
+
+# .NET
+bin/
+obj/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Logs
+*.log

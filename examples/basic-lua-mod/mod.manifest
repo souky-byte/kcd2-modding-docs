@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+    <info>
+        <name>Basic Lua Mod Example</name>
+        <modid>basic_lua_example</modid>
+        <description>A minimal KCD2 Lua mod demonstrating bootstrap and module patterns</description>
+        <author>KCD2 Modding Docs</author>
+        <version>1.0.0</version>
+        <created_on>2025-01-15</created_on>
+        <modifies_level>false</modifies_level>
+    </info>
+</kcd_mod>
