@@ -16,6 +16,11 @@ This repository covers everything from basic Lua scripting and XML data modifica
 - [data-modification.md](modding-patterns/data-modification.md) — XML data override and table patching patterns
 - [advanced-examples.md](modding-patterns/advanced-examples.md) — Real code excerpts from production mods
 
+### [modding-patterns/advanced/](modding-patterns/advanced/) — Advanced Undocumented Patterns
+- [ai-combat-npc-patterns.md](modding-patterns/advanced/ai-combat-npc-patterns.md) — AI, Combat & NPC behavior patterns (621 lines)
+- [crime-economy-stealth-patterns.md](modding-patterns/advanced/crime-economy-stealth-patterns.md) — Crime, Economy, Stealth & Reputation systems (759 lines)
+- [ui-items-alchemy-patterns.md](modding-patterns/advanced/ui-items-alchemy-patterns.md) — UI, HUD, Alchemy, Items & QOL patterns (780 lines)
+
 ### [mod-analysis/](mod-analysis/) — Repository Analysis
 - [index.md](mod-analysis/index.md) — Overview table of all analyzed mods and tools
 - [KCD2ModLoader.md](mod-analysis/KCD2ModLoader.md) — Lua mod loader framework (C++)
