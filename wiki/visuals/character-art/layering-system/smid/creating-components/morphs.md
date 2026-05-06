@@ -16,7 +16,7 @@ Use Smid to assign morphs to components.
 
 
 
-![](image.png){width=70%}
+*(image: )*{width=70%}
 
 
 
@@ -38,7 +38,7 @@ Morphs are used to change the original shape of the horse model.
 
 
 
-![](2025-01-26 17-29-30.mp4){width=70%}
+*(image: )*{width=70%}
 
 
 
@@ -46,4 +46,4 @@ Morph is triggered by the unique head to fit the unique body.
 
 
 
-![](Morphs.gif)
+*(image: )*

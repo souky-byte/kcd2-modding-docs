@@ -31,4 +31,3 @@ There are some special files that can be used:
 | data/libs/tables/.../*tablename*__*modid*.xml | A patch for a table. Allows modification of a single entry in table |
 | data/quests/*modid*.xml | Concept graph that will be loaded for trosecko and kutnorsko, alongside main game graph |
 | data/libs/Storm/storm__*modid*.xml | Storm root file that is going to be merged into game's storm root file |
-

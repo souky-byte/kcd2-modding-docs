@@ -14,7 +14,7 @@ If you reload concept graph you should now see the event and it's variant(s) in 
 events debug. In the debug all generic events are under the "fake" Event place *GenericEvents*.
 Here <http://localhost:1403/player/randomEvents>
 You can also see there all the cooldown values including the global *Generic* cooldown at the top.
-![](https://youtrack.warhorsestudios.cz/api/files/235-16586?sign=MTc0MjE2OTYwMDAwMHwyNi02NTd8MjM1LTE2NTg2fEhxd0xHYXBpaS1qTjZjZ1JKMXZ2M3BwQi1xQkdLeWdTWlRRUEtMWlBiMjQNCg&updated=1724066114334)  
+*(image: )*  
 
 ## AI
 
@@ -27,7 +27,7 @@ This node has 2 out bools.
 
 If this node is executed without receiving perception message from Random event system (it should be the same as normal perception message) and player chooses to stop. Player will be moved to 0 0 0. This is on purpose because it should never happen.
 If the Node is executed when player is not fast traveling, the barrier opens immediately and both out values will be *false*.
-![](https://youtrack.warhorsestudios.cz/api/files/235-16587?sign=MTc0MjE2OTYwMDAwMHwyNi02NTd8MjM1LTE2NTg3fDFKYlpPNGtBTmp1b25uUmltVnFzaDJVSFg1MHd3UXFlcUdLSm9JWWNZVVkNCg&updated=1724066109558)  
+*(image: )*  
 
 If you want to test fast travel (and map still doesn't work), you can use the CVar
 `wh_pl_FastTravelTo <entityName>` or `wh_pl_FastTravelTo x y z`

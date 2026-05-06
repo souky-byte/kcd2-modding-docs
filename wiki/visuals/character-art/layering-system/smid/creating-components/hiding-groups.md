@@ -2,8 +2,6 @@
 
 > Source: [https://youtrack.warhorsestudios.cz/articles/KM-A-64](https://youtrack.warhorsestudios.cz/articles/KM-A-64)
 
-
-
 To use hiding groups, you have to:
 
 * **Paint hiding groups on mesh**
@@ -44,4 +42,4 @@ List of all existing hiding groups can be found in *Data/Libs/Tables/Character/C
 
 Example of available hiding groups for horses
 
-![](image.png)
+*(image: )*

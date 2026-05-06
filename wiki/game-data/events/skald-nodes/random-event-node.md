@@ -2,7 +2,7 @@
 
 > Source: [https://youtrack.warhorsestudios.cz/articles/KM-A-74](https://youtrack.warhorsestudios.cz/articles/KM-A-74)
 
-![](https://youtrack.warhorsestudios.cz/api/files/235-10998?sign=MTc0MjE2OTYwMDAwMHwyNi02NTd8MjM1LTEwOTk4fHNHVHJGNFJvMER5V0piNWM5TlNnalpPZzJseUZVMkhwcmZCWi1FNzBFZUENCg&updated=1676035474074)  
+*(image: )*  
 
 A module that contains **Random event variant** nodes and possibly some common logic for the event. Acts as an event definition, to later be instanced in different event places. Should only be created in the "*Barbora/random_events*" library.
 

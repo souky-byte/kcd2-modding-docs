@@ -6,7 +6,7 @@ Smid is our essential tool for setting up Components, Materials, Body parts, Arm
 
 ### Open workspace
 
-![](image1.png)
+*(image: )*
 
 **Root directory** - game root, should contain Data, Localization and Tools folders
 
@@ -14,7 +14,7 @@ Smid is our essential tool for setting up Components, Materials, Body parts, Arm
 
 **Mod** - select your mod
 
-![](image.png){width=70%}
+*(image: )*{width=70%}
 
 
 
@@ -24,10 +24,10 @@ You can easily check  various debugs with the debug view in Smid. This will help
 
 *Debug views*
 
-![](image3.png)
+*(image: )*
 
 
 
 *Explanatory video of Smid functionality*
 
-![](Smid.mp4){width=70%}
+*(image: )*{width=70%}

@@ -10,7 +10,7 @@ Features are identified by ID. You can assign feature IDs either in vertex color
 
 *Feature ID cube*
 
-![](image1.png)
+*(image: )*
 
 
 
@@ -22,9 +22,9 @@ For features which are "touching" in the texture, make sure to use adjacent IDs 
 
 *Example of filled features in material*
 
-![](image.png)
+*(image: )*
 
-![](image2.png){width=417px}
+*(image: )*{width=417px}
 
 
 
@@ -32,8 +32,8 @@ For features which are "touching" in the texture, make sure to use adjacent IDs 
 
 You can preview the color with the debug view. This can be done in Smid or with console command: **wh_e_clothingsystem_debug 1**
 
-![](image5.png){width=70%}
+*(image: )*{width=70%}
 
 
 
-![](image3.png){width=70%}
+*(image: )*{width=70%}

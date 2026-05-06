@@ -1,4 +1,4 @@
-# 3ds Max Setup
+# How to Set Up Your 3ds Max
 
 > Source: [https://youtrack.warhorsestudios.cz/articles/KM-A-42](https://youtrack.warhorsestudios.cz/articles/KM-A-42)
 

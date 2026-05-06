@@ -46,4 +46,3 @@ Links have a specific format. All scheduler links always start with _, followed 
 | corpse ignore | `!corpse` | this link can be used even if there are corpses around |
 | fast forward | `!ff` | link is only valid if NPC is currently in Fast Forward mode |
 | behavior name | `name` | This link ends search (unless !override is used), and NPC executes specified behavior on the target of this link |
-

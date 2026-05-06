@@ -4,7 +4,7 @@
 
 Excel Addin (Tools/modding/excelAddin) is a plugin for excel that allows efficient modification of most game data tables. It is installed with
 **Tools/modding/ExcelDbAddin.DbAndXsdSupport.vsto**, and adds a tab to excel:
-![](obrazek.png)
+*(image: )*
 
 1. The addin can use either extracted XML files, or PAKs (this concerns the base game data files). You need to set your workspace root to the modding tools root (.../SteamLibrary/steamapps/common/KCD2Mod)
 2. The addin can save localized string directly to localization PAKs

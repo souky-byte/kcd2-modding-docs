@@ -1,10 +1,10 @@
 # KCD2 Modding Documentation
 
-Comprehensive modding documentation for **Kingdom Come: Deliverance II** — compiled from the [official Warhorse Wiki](https://warhorse.youtrack.cloud/articles/KM-A-1/Modding-Kingdom-Come-Deliverance-2) and deep analysis of 15+ actively maintained GitHub repositories.
+Comprehensive modding documentation for **Kingdom Come: Deliverance II** — scraped from the [official Warhorse Wiki](https://warhorse.youtrack.cloud/articles/KM-A-1/Modding-Kingdom-Come-Deliverance-2) via YouTrack REST API, plus deep analysis of 15+ actively maintained GitHub repositories.
 
 This repository covers everything from basic Lua scripting and XML data modification to advanced C++ ASI mods, 3D asset pipelines, and tooling. Includes real code examples extracted from production mods.
 
-> **Sources**: [Warhorse YouTrack Wiki](https://warhorse.youtrack.cloud/articles/KM-A-1/Modding-Kingdom-Come-Deliverance-2) (78 articles) • 15 GitHub repositories analyzed • Community resources
+> **Sources**: [Warhorse YouTrack Wiki](https://warhorse.youtrack.cloud/articles/KM-A-1/Modding-Kingdom-Come-Deliverance-2) (77 articles via REST API) • 15 GitHub repositories analyzed • Community resources
 
 ## Table of Contents
 

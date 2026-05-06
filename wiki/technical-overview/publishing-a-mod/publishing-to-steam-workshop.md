@@ -6,7 +6,7 @@ To upload a mod to Steam workshop, you have to use our custom tool (there is no 
 
 To use the Steam Workshop Uploader, you need to have an activated steam key for KCD2. If you have KCD2 through some sharing program, or free weekend, etc... the upload might not work (this is determined by Steam and is subject to future change outside our control).
 
-![](obrazek1.png)
+*(image: )*
 
 You can create a new mod with the + button. The name of the mod is the displayed mod on steam, and can differ from the name in manifest (although for clarity it's better to use the same name)
 
@@ -20,4 +20,4 @@ If your upload fails, you can check for slightly more information about the erro
 
 ### Visibility on Steam
 When you first upload your mod, it is hidden. While hidden, only you can subscribe to it. You can change the visibility in the Steam client:
-![](obrazek.png)
+*(image: )*
